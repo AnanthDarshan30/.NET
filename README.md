@@ -17,7 +17,7 @@
  These are my projects and things I learnt along the way when I started working on **.NET**, 
  things which helped me understand the concept thorugh hands on experience.
 
- > ### **NOTE: ** - *I have pushed my entire solutions folder to the repo, so when you clone it, make sure you just copy paste the files to your vs community to run them on your settings, instead of pasting the entire solutions folder as it's prone to lot of errors depending on the version your visual community is using and so on.*
+ > ##### **NOTE: ** - *I have pushed my entire solutions folder to the repo, so when you clone it, make sure you just copy paste the files to your vs community to run them on your settings, instead of pasting the entire solutions folder as it's prone to lot of errors depending on the version your visual community is using and so on.*
 
  The **Solutions** folder contains multiple solutions, where each solution holds a purpose and contains multiple projects. 
  Each solution's purpose is usually understood by the name of the solution.
