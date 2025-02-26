@@ -11,8 +11,8 @@
             - ASP.NET and web development
             - .NET core cross-platform developent
             - Data Storage and Procession (*optional*)
- - Install [MySQL](https://www.mysql.com/products/workbench/) so you can use actual data with most of these projects, mainly for APIs and working projects like Student Management System.
- - Install [Angular](https://v17.angular.io/guide/setup-local)      
+- Install <a href="https://www.mysql.com/products/workbench/" target="_blank">MySQL</a> so you can use actual data with most of these projects, mainly for APIs and working projects like Student Management System.  
+- Install <a href="https://v17.angular.io/guide/setup-local" target="_blank">Angular</a>.
 ## **Guide**
  These are my projects and things I learnt along the way when I started working on **.NET**, 
  things which helped me understand the concept thorugh hands on experience.
