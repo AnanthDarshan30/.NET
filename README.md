@@ -2,8 +2,17 @@
  **-->**  All my .NET and ASP.NET core applications and web APIs in one repo.
 
  ## ***Prerequisites***
-
-
+ - Install [Visual Studio Community](https://visualstudio.microsoft.com/vs/community), ignore if you already have it installed.
+    ### ***Add support for .Net Framework, ASP.NET, API Development, MySQL***
+    1. Open Visual Studio Installer (*you'll usually find it in the search menu*) 
+    2. Modify the Visual Studio Community.
+    3. Select Required Workloads, some of them are:-
+            - .Net Desktop Development
+            - ASP.NET and web development
+            - .NET core cross-platform developent
+            - Data Storage and Procession (*optional*)
+ - Install [MySQL](https://www.mysql.com/products/workbench/) so you can use actual data with most of these projects, mainly for APIs and working projects like Student Management System.
+ - Install [Angular](https://v17.angular.io/guide/setup-local)      
 ## **Guide**
  These are my projects and things I learnt along the way when I started working on **.NET**, 
  things which helped me understand the concept thorugh hands on experience.
