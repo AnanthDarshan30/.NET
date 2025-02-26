@@ -1,0 +1,7 @@
+C:\Users\aadars\Solutions\MyProjects\GenericDemo\bin\Debug\GenericDemo.exe.config
+C:\Users\aadars\Solutions\MyProjects\GenericDemo\bin\Debug\GenericDemo.exe
+C:\Users\aadars\Solutions\MyProjects\GenericDemo\bin\Debug\GenericDemo.pdb
+C:\Users\aadars\Solutions\MyProjects\GenericDemo\obj\Debug\GenericDemo.csproj.AssemblyReference.cache
+C:\Users\aadars\Solutions\MyProjects\GenericDemo\obj\Debug\GenericDemo.csproj.CoreCompileInputs.cache
+C:\Users\aadars\Solutions\MyProjects\GenericDemo\obj\Debug\GenericDemo.exe
+C:\Users\aadars\Solutions\MyProjects\GenericDemo\obj\Debug\GenericDemo.pdb

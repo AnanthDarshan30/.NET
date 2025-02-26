@@ -1,0 +1,11 @@
+C:\Users\aadars\Projects\OOPS\Inheritance\obj\Debug\Inheritance.csproj.AssemblyReference.cache
+C:\Users\aadars\Projects\OOPS\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\aadars\Projects\OOPS\Inheritance\bin\Debug\Inheritance.dll.config
+C:\Users\aadars\Projects\OOPS\Inheritance\bin\Debug\Inheritance.dll
+C:\Users\aadars\Projects\OOPS\Inheritance\bin\Debug\Inheritance.pdb
+C:\Users\aadars\Projects\OOPS\Inheritance\bin\Debug\Sharedlibrary.dll
+C:\Users\aadars\Projects\OOPS\Inheritance\bin\Debug\Sharedlibrary.pdb
+C:\Users\aadars\Projects\OOPS\Inheritance\bin\Debug\Sharedlibrary.dll.config
+C:\Users\aadars\Projects\OOPS\Inheritance\obj\Debug\Inherita.2CDECF0F.Up2Date
+C:\Users\aadars\Projects\OOPS\Inheritance\obj\Debug\Inheritance.dll
+C:\Users\aadars\Projects\OOPS\Inheritance\obj\Debug\Inheritance.pdb

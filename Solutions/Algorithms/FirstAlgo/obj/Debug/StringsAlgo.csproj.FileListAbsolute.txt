@@ -1,0 +1,7 @@
+C:\Users\aadars\Solutions\Algorithms\FirstAlgo\bin\Debug\FirstAlgo.exe.config
+C:\Users\aadars\Solutions\Algorithms\FirstAlgo\bin\Debug\FirstAlgo.exe
+C:\Users\aadars\Solutions\Algorithms\FirstAlgo\bin\Debug\FirstAlgo.pdb
+C:\Users\aadars\Solutions\Algorithms\FirstAlgo\obj\Debug\StringsAlgo.csproj.AssemblyReference.cache
+C:\Users\aadars\Solutions\Algorithms\FirstAlgo\obj\Debug\StringsAlgo.csproj.CoreCompileInputs.cache
+C:\Users\aadars\Solutions\Algorithms\FirstAlgo\obj\Debug\FirstAlgo.exe
+C:\Users\aadars\Solutions\Algorithms\FirstAlgo\obj\Debug\FirstAlgo.pdb

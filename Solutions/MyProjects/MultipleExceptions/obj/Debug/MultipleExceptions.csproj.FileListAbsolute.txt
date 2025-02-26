@@ -1,0 +1,7 @@
+C:\Users\aadars\Projects\MyProjects\MultipleExceptions\obj\Debug\MultipleExceptions.csproj.AssemblyReference.cache
+C:\Users\aadars\Projects\MyProjects\MultipleExceptions\obj\Debug\MultipleExceptions.csproj.CoreCompileInputs.cache
+C:\Users\aadars\Projects\MyProjects\MultipleExceptions\bin\Debug\MultipleExceptions.exe.config
+C:\Users\aadars\Projects\MyProjects\MultipleExceptions\bin\Debug\MultipleExceptions.exe
+C:\Users\aadars\Projects\MyProjects\MultipleExceptions\bin\Debug\MultipleExceptions.pdb
+C:\Users\aadars\Projects\MyProjects\MultipleExceptions\obj\Debug\MultipleExceptions.exe
+C:\Users\aadars\Projects\MyProjects\MultipleExceptions\obj\Debug\MultipleExceptions.pdb

@@ -1,0 +1,6 @@
+C:\Users\aadars\Solutions\Library\FileLogger\bin\Debug\FileLogger.dll
+C:\Users\aadars\Solutions\Library\FileLogger\bin\Debug\FileLogger.pdb
+C:\Users\aadars\Solutions\Library\FileLogger\obj\Debug\FileLogger.csproj.AssemblyReference.cache
+C:\Users\aadars\Solutions\Library\FileLogger\obj\Debug\FileLogger.csproj.CoreCompileInputs.cache
+C:\Users\aadars\Solutions\Library\FileLogger\obj\Debug\FileLogger.dll
+C:\Users\aadars\Solutions\Library\FileLogger\obj\Debug\FileLogger.pdb

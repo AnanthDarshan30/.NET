@@ -1,0 +1,11 @@
+C:\Users\aadars\Projects\OOPS\Polymorphism\obj\Debug\Polymorphism.csproj.AssemblyReference.cache
+C:\Users\aadars\Projects\OOPS\Polymorphism\obj\Debug\Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\aadars\Projects\OOPS\Polymorphism\bin\Debug\Polymorphism.dll.config
+C:\Users\aadars\Projects\OOPS\Polymorphism\bin\Debug\Polymorphism.dll
+C:\Users\aadars\Projects\OOPS\Polymorphism\bin\Debug\Polymorphism.pdb
+C:\Users\aadars\Projects\OOPS\Polymorphism\bin\Debug\Sharedlibrary.dll
+C:\Users\aadars\Projects\OOPS\Polymorphism\bin\Debug\Sharedlibrary.pdb
+C:\Users\aadars\Projects\OOPS\Polymorphism\bin\Debug\Sharedlibrary.dll.config
+C:\Users\aadars\Projects\OOPS\Polymorphism\obj\Debug\Polymorp.57828D73.Up2Date
+C:\Users\aadars\Projects\OOPS\Polymorphism\obj\Debug\Polymorphism.dll
+C:\Users\aadars\Projects\OOPS\Polymorphism\obj\Debug\Polymorphism.pdb

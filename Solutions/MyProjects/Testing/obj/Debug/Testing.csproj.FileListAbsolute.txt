@@ -1,0 +1,7 @@
+C:\Users\aadars\Projects\MyProjects\Testing\bin\Debug\Testing.exe.config
+C:\Users\aadars\Projects\MyProjects\Testing\bin\Debug\Testing.exe
+C:\Users\aadars\Projects\MyProjects\Testing\bin\Debug\Testing.pdb
+C:\Users\aadars\Projects\MyProjects\Testing\obj\Debug\Testing.csproj.AssemblyReference.cache
+C:\Users\aadars\Projects\MyProjects\Testing\obj\Debug\Testing.csproj.CoreCompileInputs.cache
+C:\Users\aadars\Projects\MyProjects\Testing\obj\Debug\Testing.exe
+C:\Users\aadars\Projects\MyProjects\Testing\obj\Debug\Testing.pdb

@@ -1,0 +1,14 @@
+C:\Users\aadars\Projects\MyProjects\FileAndExceptionHandling\bin\Debug\FileAndExceptionHandling.exe.config
+C:\Users\aadars\Projects\MyProjects\FileAndExceptionHandling\bin\Debug\FileAndExceptionHandling.exe
+C:\Users\aadars\Projects\MyProjects\FileAndExceptionHandling\bin\Debug\FileAndExceptionHandling.pdb
+C:\Users\aadars\Projects\MyProjects\FileAndExceptionHandling\obj\Debug\FileAndExceptionHandling.csproj.AssemblyReference.cache
+C:\Users\aadars\Projects\MyProjects\FileAndExceptionHandling\obj\Debug\FileAndExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\aadars\Projects\MyProjects\FileAndExceptionHandling\obj\Debug\FileAndExceptionHandling.exe
+C:\Users\aadars\Projects\MyProjects\FileAndExceptionHandling\obj\Debug\FileAndExceptionHandling.pdb
+C:\Users\aadars\Solutions\MyProjects\FileAndExceptionHandling\bin\Debug\FileAndExceptionHandling.exe.config
+C:\Users\aadars\Solutions\MyProjects\FileAndExceptionHandling\bin\Debug\FileAndExceptionHandling.exe
+C:\Users\aadars\Solutions\MyProjects\FileAndExceptionHandling\bin\Debug\FileAndExceptionHandling.pdb
+C:\Users\aadars\Solutions\MyProjects\FileAndExceptionHandling\obj\Debug\FileAndExceptionHandling.csproj.AssemblyReference.cache
+C:\Users\aadars\Solutions\MyProjects\FileAndExceptionHandling\obj\Debug\FileAndExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\aadars\Solutions\MyProjects\FileAndExceptionHandling\obj\Debug\FileAndExceptionHandling.exe
+C:\Users\aadars\Solutions\MyProjects\FileAndExceptionHandling\obj\Debug\FileAndExceptionHandling.pdb

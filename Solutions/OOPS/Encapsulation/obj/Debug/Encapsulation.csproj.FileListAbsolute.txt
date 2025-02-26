@@ -1,0 +1,11 @@
+C:\Users\aadars\Projects\OOPS\Encapsulation\obj\Debug\Encapsulation.csproj.AssemblyReference.cache
+C:\Users\aadars\Projects\OOPS\Encapsulation\obj\Debug\Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\aadars\Projects\OOPS\Encapsulation\bin\Debug\Encapsulation.dll.config
+C:\Users\aadars\Projects\OOPS\Encapsulation\bin\Debug\Encapsulation.dll
+C:\Users\aadars\Projects\OOPS\Encapsulation\bin\Debug\Encapsulation.pdb
+C:\Users\aadars\Projects\OOPS\Encapsulation\bin\Debug\Sharedlibrary.dll
+C:\Users\aadars\Projects\OOPS\Encapsulation\bin\Debug\Sharedlibrary.pdb
+C:\Users\aadars\Projects\OOPS\Encapsulation\bin\Debug\Sharedlibrary.dll.config
+C:\Users\aadars\Projects\OOPS\Encapsulation\obj\Debug\Encapsul.65C64022.Up2Date
+C:\Users\aadars\Projects\OOPS\Encapsulation\obj\Debug\Encapsulation.dll
+C:\Users\aadars\Projects\OOPS\Encapsulation\obj\Debug\Encapsulation.pdb

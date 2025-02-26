@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aadars\\Solutions\\MySQL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1CD0086-62A5-4755-A814-977E29193A60}|StudentManagement\\StudentManagement.csproj|C:\\Users\\aadars\\Solutions\\MySQL\\studentmanagement\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F1CD0086-62A5-4755-A814-977E29193A60}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1CD0086-62A5-4755-A814-977E29193A60}|StudentManagement\\StudentManagement.csproj|C:\\Users\\aadars\\Solutions\\MySQL\\studentmanagement\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1CD0086-62A5-4755-A814-977E29193A60}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1CD0086-62A5-4755-A814-977E29193A60}|StudentManagement\\StudentManagement.csproj|c:\\users\\aadars\\solutions\\mysql\\studentmanagement\\attendancemanagement.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1CD0086-62A5-4755-A814-977E29193A60}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\attendancemanagement.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1CD0086-62A5-4755-A814-977E29193A60}|StudentManagement\\StudentManagement.csproj|C:\\Users\\aadars\\Solutions\\MySQL\\studentmanagement\\login.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1CD0086-62A5-4755-A814-977E29193A60}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\login.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aadars\\Solutions\\MySQL\\StudentManagement\\bin\\app.publish\\Site.Master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:StudentManagement\\bin\\app.publish\\Site.Master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1CD0086-62A5-4755-A814-977E29193A60}|StudentManagement\\StudentManagement.csproj|C:\\Users\\aadars\\Solutions\\MySQL\\studentmanagement\\studentenrollment.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F1CD0086-62A5-4755-A814-977E29193A60}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\studentenrollment.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1CD0086-62A5-4755-A814-977E29193A60}|StudentManagement\\StudentManagement.csproj|C:\\Users\\aadars\\Solutions\\MySQL\\studentmanagement\\scripts\\myajax.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F1CD0086-62A5-4755-A814-977E29193A60}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\scripts\\myajax.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1CD0086-62A5-4755-A814-977E29193A60}|StudentManagement\\StudentManagement.csproj|C:\\Users\\aadars\\Solutions\\MySQL\\studentmanagement\\attendancemanagement.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{F1CD0086-62A5-4755-A814-977E29193A60}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\attendancemanagement.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1CD0086-62A5-4755-A814-977E29193A60}|StudentManagement\\StudentManagement.csproj|C:\\Users\\aadars\\Solutions\\MySQL\\studentmanagement\\studentenrollment.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1CD0086-62A5-4755-A814-977E29193A60}|StudentManagement\\StudentManagement.csproj|solutionrelative:studentmanagement\\studentenrollment.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentEnrollment.aspx",
+              "DocumentMoniker": "C:\\Users\\aadars\\Solutions\\MySQL\\StudentManagement\\StudentEnrollment.aspx",
+              "RelativeDocumentMoniker": "StudentManagement\\StudentEnrollment.aspx",
+              "ToolTip": "C:\\Users\\aadars\\Solutions\\MySQL\\StudentManagement\\StudentEnrollment.aspx",
+              "RelativeToolTip": "StudentManagement\\StudentEnrollment.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-21T04:59:02.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AttendanceManagement.aspx",
+              "DocumentMoniker": "C:\\Users\\aadars\\Solutions\\MySQL\\StudentManagement\\AttendanceManagement.aspx",
+              "RelativeDocumentMoniker": "StudentManagement\\AttendanceManagement.aspx",
+              "ToolTip": "C:\\Users\\aadars\\Solutions\\MySQL\\StudentManagement\\AttendanceManagement.aspx",
+              "RelativeToolTip": "StudentManagement\\AttendanceManagement.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-02T04:06:26.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\aadars\\Solutions\\MySQL\\StudentManagement\\Login.aspx.designer.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Login.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\aadars\\Solutions\\MySQL\\StudentManagement\\Login.aspx.designer.cs",
+              "RelativeToolTip": "StudentManagement\\Login.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T05:06:59.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentEnrollment.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\aadars\\Solutions\\MySQL\\StudentManagement\\StudentEnrollment.aspx.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\StudentEnrollment.aspx.cs",
+              "ToolTip": "C:\\Users\\aadars\\Solutions\\MySQL\\StudentManagement\\StudentEnrollment.aspx.cs",
+              "RelativeToolTip": "StudentManagement\\StudentEnrollment.aspx.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAADwv4wAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T05:07:14.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AttendanceManagement.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\aadars\\Solutions\\MySQL\\StudentManagement\\AttendanceManagement.aspx.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\AttendanceManagement.aspx.cs",
+              "ToolTip": "C:\\Users\\aadars\\Solutions\\MySQL\\StudentManagement\\AttendanceManagement.aspx.cs",
+              "RelativeToolTip": "StudentManagement\\AttendanceManagement.aspx.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAYwA0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T04:38:46.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MyAjax.js",
+              "DocumentMoniker": "C:\\Users\\aadars\\Solutions\\MySQL\\StudentManagement\\Scripts\\MyAjax.js",
+              "RelativeDocumentMoniker": "StudentManagement\\Scripts\\MyAjax.js",
+              "ToolTip": "C:\\Users\\aadars\\Solutions\\MySQL\\StudentManagement\\Scripts\\MyAjax.js",
+              "RelativeToolTip": "StudentManagement\\Scripts\\MyAjax.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-10T06:15:16.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\aadars\\Solutions\\MySQL\\StudentManagement\\Default.aspx",
+              "RelativeDocumentMoniker": "StudentManagement\\Default.aspx",
+              "ToolTip": "C:\\Users\\aadars\\Solutions\\MySQL\\StudentManagement\\Default.aspx",
+              "RelativeToolTip": "StudentManagement\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-08T18:30:57.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\Users\\aadars\\Solutions\\MySQL\\StudentManagement\\bin\\app.publish\\Site.Master",
+              "RelativeDocumentMoniker": "StudentManagement\\bin\\app.publish\\Site.Master",
+              "ToolTip": "C:\\Users\\aadars\\Solutions\\MySQL\\StudentManagement\\bin\\app.publish\\Site.Master",
+              "RelativeToolTip": "StudentManagement\\bin\\app.publish\\Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-01-23T06:41:21.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\aadars\\Solutions\\MySQL\\StudentManagement\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "StudentManagement\\Default.aspx.cs",
+              "ToolTip": "C:\\Users\\aadars\\Solutions\\MySQL\\StudentManagement\\Default.aspx.cs",
+              "RelativeToolTip": "StudentManagement\\Default.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T06:51:10.463Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

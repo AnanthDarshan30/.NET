@@ -1,0 +1,7 @@
+C:\Users\aadars\Solutions\MyProjects\Invariant\bin\Debug\Invariant.exe.config
+C:\Users\aadars\Solutions\MyProjects\Invariant\bin\Debug\Invariant.exe
+C:\Users\aadars\Solutions\MyProjects\Invariant\bin\Debug\Invariant.pdb
+C:\Users\aadars\Solutions\MyProjects\Invariant\obj\Debug\Invariant.csproj.AssemblyReference.cache
+C:\Users\aadars\Solutions\MyProjects\Invariant\obj\Debug\Invariant.csproj.CoreCompileInputs.cache
+C:\Users\aadars\Solutions\MyProjects\Invariant\obj\Debug\Invariant.exe
+C:\Users\aadars\Solutions\MyProjects\Invariant\obj\Debug\Invariant.pdb

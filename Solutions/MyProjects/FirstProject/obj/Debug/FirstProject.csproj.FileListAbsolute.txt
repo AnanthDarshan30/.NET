@@ -1,0 +1,14 @@
+C:\Users\aadars\Projects\MyProjects\FirstProject\bin\Debug\FirstProject.exe.config
+C:\Users\aadars\Projects\MyProjects\FirstProject\bin\Debug\FirstProject.exe
+C:\Users\aadars\Projects\MyProjects\FirstProject\bin\Debug\FirstProject.pdb
+C:\Users\aadars\Projects\MyProjects\FirstProject\obj\Debug\FirstProject.csproj.AssemblyReference.cache
+C:\Users\aadars\Projects\MyProjects\FirstProject\obj\Debug\FirstProject.csproj.CoreCompileInputs.cache
+C:\Users\aadars\Projects\MyProjects\FirstProject\obj\Debug\FirstProject.exe
+C:\Users\aadars\Projects\MyProjects\FirstProject\obj\Debug\FirstProject.pdb
+C:\Users\aadars\Solutions\MyProjects\FirstProject\bin\Debug\FirstProject.exe.config
+C:\Users\aadars\Solutions\MyProjects\FirstProject\bin\Debug\FirstProject.exe
+C:\Users\aadars\Solutions\MyProjects\FirstProject\bin\Debug\FirstProject.pdb
+C:\Users\aadars\Solutions\MyProjects\FirstProject\obj\Debug\FirstProject.csproj.AssemblyReference.cache
+C:\Users\aadars\Solutions\MyProjects\FirstProject\obj\Debug\FirstProject.csproj.CoreCompileInputs.cache
+C:\Users\aadars\Solutions\MyProjects\FirstProject\obj\Debug\FirstProject.exe
+C:\Users\aadars\Solutions\MyProjects\FirstProject\obj\Debug\FirstProject.pdb

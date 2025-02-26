@@ -1,0 +1,7 @@
+C:\Users\aadars\Solutions\MyProjects\RaceCondition\bin\Debug\RaceCondition.exe.config
+C:\Users\aadars\Solutions\MyProjects\RaceCondition\bin\Debug\RaceCondition.exe
+C:\Users\aadars\Solutions\MyProjects\RaceCondition\bin\Debug\RaceCondition.pdb
+C:\Users\aadars\Solutions\MyProjects\RaceCondition\obj\Debug\RaceCondition.csproj.AssemblyReference.cache
+C:\Users\aadars\Solutions\MyProjects\RaceCondition\obj\Debug\RaceCondition.csproj.CoreCompileInputs.cache
+C:\Users\aadars\Solutions\MyProjects\RaceCondition\obj\Debug\RaceCondition.exe
+C:\Users\aadars\Solutions\MyProjects\RaceCondition\obj\Debug\RaceCondition.pdb

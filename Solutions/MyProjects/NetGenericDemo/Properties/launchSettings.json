@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "NetGenericDemo": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

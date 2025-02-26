@@ -1,0 +1,7 @@
+C:\Users\aadars\Solutions\MyProjects\Locks\bin\Debug\Locks.exe.config
+C:\Users\aadars\Solutions\MyProjects\Locks\bin\Debug\Locks.exe
+C:\Users\aadars\Solutions\MyProjects\Locks\bin\Debug\Locks.pdb
+C:\Users\aadars\Solutions\MyProjects\Locks\obj\Debug\Locks.csproj.AssemblyReference.cache
+C:\Users\aadars\Solutions\MyProjects\Locks\obj\Debug\Locks.csproj.CoreCompileInputs.cache
+C:\Users\aadars\Solutions\MyProjects\Locks\obj\Debug\Locks.exe
+C:\Users\aadars\Solutions\MyProjects\Locks\obj\Debug\Locks.pdb

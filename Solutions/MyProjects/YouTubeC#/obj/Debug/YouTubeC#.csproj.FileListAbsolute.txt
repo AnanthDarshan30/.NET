@@ -1,0 +1,7 @@
+C:\Users\aadars\Projects\MyProjects\YouTubeC#\bin\Debug\YouTubeC#.exe.config
+C:\Users\aadars\Projects\MyProjects\YouTubeC#\bin\Debug\YouTubeC#.exe
+C:\Users\aadars\Projects\MyProjects\YouTubeC#\bin\Debug\YouTubeC#.pdb
+C:\Users\aadars\Projects\MyProjects\YouTubeC#\obj\Debug\YouTubeC#.csproj.AssemblyReference.cache
+C:\Users\aadars\Projects\MyProjects\YouTubeC#\obj\Debug\YouTubeC#.csproj.CoreCompileInputs.cache
+C:\Users\aadars\Projects\MyProjects\YouTubeC#\obj\Debug\YouTubeC#.exe
+C:\Users\aadars\Projects\MyProjects\YouTubeC#\obj\Debug\YouTubeC#.pdb

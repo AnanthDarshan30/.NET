@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aadars\\Solutions\\Library\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21678EE8-2395-46E0-8D85-2C5DAA8FBBEA}|FileLogger\\FileLogger.csproj|c:\\users\\aadars\\solutions\\library\\filelogger\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21678EE8-2395-46E0-8D85-2C5DAA8FBBEA}|FileLogger\\FileLogger.csproj|solutionrelative:filelogger\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\Users\\aadars\\Solutions\\Library\\FileLogger\\Logger.cs",
+              "RelativeDocumentMoniker": "FileLogger\\Logger.cs",
+              "ToolTip": "C:\\Users\\aadars\\Solutions\\Library\\FileLogger\\Logger.cs",
+              "RelativeToolTip": "FileLogger\\Logger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T06:00:37.484Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

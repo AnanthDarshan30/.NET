@@ -1,0 +1,14 @@
+C:\Users\aadars\Projects\MyProjects\NeetCode\obj\Debug\NeetCode.csproj.AssemblyReference.cache
+C:\Users\aadars\Projects\MyProjects\NeetCode\obj\Debug\NeetCode.csproj.CoreCompileInputs.cache
+C:\Users\aadars\Projects\MyProjects\NeetCode\bin\Debug\NeetCode.exe.config
+C:\Users\aadars\Projects\MyProjects\NeetCode\bin\Debug\NeetCode.exe
+C:\Users\aadars\Projects\MyProjects\NeetCode\bin\Debug\NeetCode.pdb
+C:\Users\aadars\Projects\MyProjects\NeetCode\obj\Debug\NeetCode.exe
+C:\Users\aadars\Projects\MyProjects\NeetCode\obj\Debug\NeetCode.pdb
+C:\Users\aadars\Solutions\MyProjects\NeetCode\bin\Debug\NeetCode.exe.config
+C:\Users\aadars\Solutions\MyProjects\NeetCode\bin\Debug\NeetCode.exe
+C:\Users\aadars\Solutions\MyProjects\NeetCode\bin\Debug\NeetCode.pdb
+C:\Users\aadars\Solutions\MyProjects\NeetCode\obj\Debug\NeetCode.csproj.AssemblyReference.cache
+C:\Users\aadars\Solutions\MyProjects\NeetCode\obj\Debug\NeetCode.csproj.CoreCompileInputs.cache
+C:\Users\aadars\Solutions\MyProjects\NeetCode\obj\Debug\NeetCode.exe
+C:\Users\aadars\Solutions\MyProjects\NeetCode\obj\Debug\NeetCode.pdb

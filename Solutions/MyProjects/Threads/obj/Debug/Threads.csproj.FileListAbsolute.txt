@@ -1,0 +1,7 @@
+C:\Users\aadars\Solutions\MyProjects\Threads\bin\Debug\Threads.exe.config
+C:\Users\aadars\Solutions\MyProjects\Threads\bin\Debug\Threads.exe
+C:\Users\aadars\Solutions\MyProjects\Threads\bin\Debug\Threads.pdb
+C:\Users\aadars\Solutions\MyProjects\Threads\obj\Debug\Threads.csproj.AssemblyReference.cache
+C:\Users\aadars\Solutions\MyProjects\Threads\obj\Debug\Threads.csproj.CoreCompileInputs.cache
+C:\Users\aadars\Solutions\MyProjects\Threads\obj\Debug\Threads.exe
+C:\Users\aadars\Solutions\MyProjects\Threads\obj\Debug\Threads.pdb

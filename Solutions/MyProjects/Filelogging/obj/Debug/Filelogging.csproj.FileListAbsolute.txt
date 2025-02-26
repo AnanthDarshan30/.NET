@@ -1,0 +1,10 @@
+C:\Users\aadars\Solutions\MyProjects\Filelogging\bin\Debug\Filelogging.exe.config
+C:\Users\aadars\Solutions\MyProjects\Filelogging\bin\Debug\Filelogging.exe
+C:\Users\aadars\Solutions\MyProjects\Filelogging\bin\Debug\Filelogging.pdb
+C:\Users\aadars\Solutions\MyProjects\Filelogging\bin\Debug\FileLogger.dll
+C:\Users\aadars\Solutions\MyProjects\Filelogging\bin\Debug\FileLogger.pdb
+C:\Users\aadars\Solutions\MyProjects\Filelogging\obj\Debug\Filelogging.csproj.AssemblyReference.cache
+C:\Users\aadars\Solutions\MyProjects\Filelogging\obj\Debug\Filelogging.csproj.CoreCompileInputs.cache
+C:\Users\aadars\Solutions\MyProjects\Filelogging\obj\Debug\Filelogg.F4C17DC6.Up2Date
+C:\Users\aadars\Solutions\MyProjects\Filelogging\obj\Debug\Filelogging.exe
+C:\Users\aadars\Solutions\MyProjects\Filelogging\obj\Debug\Filelogging.pdb

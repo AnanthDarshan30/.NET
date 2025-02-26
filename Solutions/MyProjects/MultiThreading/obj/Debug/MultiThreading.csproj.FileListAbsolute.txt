@@ -1,0 +1,7 @@
+C:\Users\aadars\Solutions\MyProjects\MultiThreading\bin\Debug\MultiThreading.exe.config
+C:\Users\aadars\Solutions\MyProjects\MultiThreading\bin\Debug\MultiThreading.exe
+C:\Users\aadars\Solutions\MyProjects\MultiThreading\bin\Debug\MultiThreading.pdb
+C:\Users\aadars\Solutions\MyProjects\MultiThreading\obj\Debug\MultiThreading.csproj.AssemblyReference.cache
+C:\Users\aadars\Solutions\MyProjects\MultiThreading\obj\Debug\MultiThreading.csproj.CoreCompileInputs.cache
+C:\Users\aadars\Solutions\MyProjects\MultiThreading\obj\Debug\MultiThreading.exe
+C:\Users\aadars\Solutions\MyProjects\MultiThreading\obj\Debug\MultiThreading.pdb

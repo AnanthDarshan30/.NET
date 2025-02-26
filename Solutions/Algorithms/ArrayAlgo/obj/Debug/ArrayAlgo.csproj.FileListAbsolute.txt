@@ -1,0 +1,7 @@
+C:\Users\aadars\Solutions\Algorithms\ArrayAlgo\bin\Debug\ArrayAlgo.exe.config
+C:\Users\aadars\Solutions\Algorithms\ArrayAlgo\bin\Debug\ArrayAlgo.exe
+C:\Users\aadars\Solutions\Algorithms\ArrayAlgo\bin\Debug\ArrayAlgo.pdb
+C:\Users\aadars\Solutions\Algorithms\ArrayAlgo\obj\Debug\ArrayAlgo.csproj.AssemblyReference.cache
+C:\Users\aadars\Solutions\Algorithms\ArrayAlgo\obj\Debug\ArrayAlgo.csproj.CoreCompileInputs.cache
+C:\Users\aadars\Solutions\Algorithms\ArrayAlgo\obj\Debug\ArrayAlgo.exe
+C:\Users\aadars\Solutions\Algorithms\ArrayAlgo\obj\Debug\ArrayAlgo.pdb

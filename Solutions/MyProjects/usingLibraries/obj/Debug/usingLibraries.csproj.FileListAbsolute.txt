@@ -1,0 +1,12 @@
+C:\Users\aadars\Projects\MyProjects\usingLibraries\bin\Debug\usingLibraries.exe.config
+C:\Users\aadars\Projects\MyProjects\usingLibraries\bin\Debug\usingLibraries.exe
+C:\Users\aadars\Projects\MyProjects\usingLibraries\bin\Debug\usingLibraries.pdb
+C:\Users\aadars\Projects\MyProjects\usingLibraries\bin\Debug\MyLibrary.dll
+C:\Users\aadars\Projects\MyProjects\usingLibraries\bin\Debug\MyLibrary.pdb
+C:\Users\aadars\Projects\MyProjects\usingLibraries\obj\Debug\usingLibraries.csproj.AssemblyReference.cache
+C:\Users\aadars\Projects\MyProjects\usingLibraries\obj\Debug\usingLibraries.csproj.CoreCompileInputs.cache
+C:\Users\aadars\Projects\MyProjects\usingLibraries\obj\Debug\usingLib.2AB9CB88.Up2Date
+C:\Users\aadars\Projects\MyProjects\usingLibraries\obj\Debug\usingLibraries.exe
+C:\Users\aadars\Projects\MyProjects\usingLibraries\obj\Debug\usingLibraries.pdb
+C:\Users\aadars\Projects\MyProjects\usingLibraries\bin\Debug\MathLibrary.dll
+C:\Users\aadars\Projects\MyProjects\usingLibraries\bin\Debug\MathLibrary.pdb

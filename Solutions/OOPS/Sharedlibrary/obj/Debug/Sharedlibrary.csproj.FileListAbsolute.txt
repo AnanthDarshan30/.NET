@@ -1,0 +1,7 @@
+C:\Users\aadars\Projects\OOPS\Sharedlibrary\obj\Debug\Sharedlibrary.csproj.AssemblyReference.cache
+C:\Users\aadars\Projects\OOPS\Sharedlibrary\obj\Debug\Sharedlibrary.csproj.CoreCompileInputs.cache
+C:\Users\aadars\Projects\OOPS\Sharedlibrary\bin\Debug\Sharedlibrary.dll.config
+C:\Users\aadars\Projects\OOPS\Sharedlibrary\bin\Debug\Sharedlibrary.dll
+C:\Users\aadars\Projects\OOPS\Sharedlibrary\bin\Debug\Sharedlibrary.pdb
+C:\Users\aadars\Projects\OOPS\Sharedlibrary\obj\Debug\Sharedlibrary.dll
+C:\Users\aadars\Projects\OOPS\Sharedlibrary\obj\Debug\Sharedlibrary.pdb

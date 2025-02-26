@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aadars\\Solutions\\Algorithms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD38412F-732F-4FE9-8E08-B3BAB1FC0210}|ArrayAlgo\\ArrayAlgo.csproj|c:\\users\\aadars\\solutions\\algorithms\\arrayalgo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD38412F-732F-4FE9-8E08-B3BAB1FC0210}|ArrayAlgo\\ArrayAlgo.csproj|solutionrelative:arrayalgo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8367920-6730-45D3-BC8A-025F0243D54C}|FirstAlgo\\FirstAlgo.csproj|C:\\Users\\aadars\\Solutions\\Algorithms\\firstalgo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8367920-6730-45D3-BC8A-025F0243D54C}|FirstAlgo\\FirstAlgo.csproj|solutionrelative:firstalgo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aadars\\Solutions\\Algorithms\\FirstAlgo\\Program.cs",
+              "RelativeDocumentMoniker": "FirstAlgo\\Program.cs",
+              "ToolTip": "C:\\Users\\aadars\\Solutions\\Algorithms\\FirstAlgo\\Program.cs",
+              "RelativeToolTip": "FirstAlgo\\Program.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAiwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T10:20:46.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aadars\\Solutions\\Algorithms\\ArrayAlgo\\Program.cs",
+              "RelativeDocumentMoniker": "ArrayAlgo\\Program.cs",
+              "ToolTip": "C:\\Users\\aadars\\Solutions\\Algorithms\\ArrayAlgo\\Program.cs",
+              "RelativeToolTip": "ArrayAlgo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T10:43:52.9Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

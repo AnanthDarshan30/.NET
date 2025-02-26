@@ -1,0 +1,12 @@
+C:\Users\aadars\Solutions\MyProjects\AdvanceLibraryManagement\obj\Debug\AdvanceLibraryManagement.csproj.AssemblyReference.cache
+C:\Users\aadars\Solutions\MyProjects\AdvanceLibraryManagement\obj\Debug\AdvanceLibraryManagement.csproj.CoreCompileInputs.cache
+C:\Users\aadars\Solutions\MyProjects\AdvanceLibraryManagement\bin\Debug\AdvanceLibraryManagement.exe.config
+C:\Users\aadars\Solutions\MyProjects\AdvanceLibraryManagement\bin\Debug\AdvanceLibraryManagement.exe
+C:\Users\aadars\Solutions\MyProjects\AdvanceLibraryManagement\bin\Debug\AdvanceLibraryManagement.pdb
+C:\Users\aadars\Solutions\MyProjects\AdvanceLibraryManagement\bin\Debug\FileLogger.dll
+C:\Users\aadars\Solutions\MyProjects\AdvanceLibraryManagement\bin\Debug\FileLogger.pdb
+C:\Users\aadars\Solutions\MyProjects\AdvanceLibraryManagement\obj\Debug\AdvanceL.961C7B4A.Up2Date
+C:\Users\aadars\Solutions\MyProjects\AdvanceLibraryManagement\obj\Debug\AdvanceLibraryManagement.exe
+C:\Users\aadars\Solutions\MyProjects\AdvanceLibraryManagement\obj\Debug\AdvanceLibraryManagement.pdb
+C:\Users\aadars\Solutions\MyProjects\AdvanceLibraryManagement\bin\Debug\ExtentionLibrary.dll
+C:\Users\aadars\Solutions\MyProjects\AdvanceLibraryManagement\bin\Debug\ExtentionLibrary.pdb

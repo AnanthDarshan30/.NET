@@ -1,0 +1,6 @@
+C:\Users\aadars\Solutions\Library\ExtentionLibrary\bin\Debug\ExtentionLibrary.dll
+C:\Users\aadars\Solutions\Library\ExtentionLibrary\bin\Debug\ExtentionLibrary.pdb
+C:\Users\aadars\Solutions\Library\ExtentionLibrary\obj\Debug\ExtentionLibrary.csproj.AssemblyReference.cache
+C:\Users\aadars\Solutions\Library\ExtentionLibrary\obj\Debug\ExtentionLibrary.csproj.CoreCompileInputs.cache
+C:\Users\aadars\Solutions\Library\ExtentionLibrary\obj\Debug\ExtentionLibrary.dll
+C:\Users\aadars\Solutions\Library\ExtentionLibrary\obj\Debug\ExtentionLibrary.pdb

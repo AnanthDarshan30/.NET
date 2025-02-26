@@ -1,0 +1,14 @@
+C:\Users\aadars\Projects\MyProjects\Interface(MethodImplementation)\bin\Debug\Interface(MethodImplementation).exe.config
+C:\Users\aadars\Projects\MyProjects\Interface(MethodImplementation)\bin\Debug\Interface(MethodImplementation).exe
+C:\Users\aadars\Projects\MyProjects\Interface(MethodImplementation)\bin\Debug\Interface(MethodImplementation).pdb
+C:\Users\aadars\Projects\MyProjects\Interface(MethodImplementation)\obj\Debug\Interface(MethodImplementation).csproj.AssemblyReference.cache
+C:\Users\aadars\Projects\MyProjects\Interface(MethodImplementation)\obj\Debug\Interface(MethodImplementation).csproj.CoreCompileInputs.cache
+C:\Users\aadars\Projects\MyProjects\Interface(MethodImplementation)\obj\Debug\Interface(MethodImplementation).exe
+C:\Users\aadars\Projects\MyProjects\Interface(MethodImplementation)\obj\Debug\Interface(MethodImplementation).pdb
+C:\Users\aadars\Solutions\MyProjects\Interface(MethodImplementation)\bin\Debug\Interface(MethodImplementation).exe.config
+C:\Users\aadars\Solutions\MyProjects\Interface(MethodImplementation)\bin\Debug\Interface(MethodImplementation).exe
+C:\Users\aadars\Solutions\MyProjects\Interface(MethodImplementation)\bin\Debug\Interface(MethodImplementation).pdb
+C:\Users\aadars\Solutions\MyProjects\Interface(MethodImplementation)\obj\Debug\Interface(MethodImplementation).csproj.AssemblyReference.cache
+C:\Users\aadars\Solutions\MyProjects\Interface(MethodImplementation)\obj\Debug\Interface(MethodImplementation).csproj.CoreCompileInputs.cache
+C:\Users\aadars\Solutions\MyProjects\Interface(MethodImplementation)\obj\Debug\Interface(MethodImplementation).exe
+C:\Users\aadars\Solutions\MyProjects\Interface(MethodImplementation)\obj\Debug\Interface(MethodImplementation).pdb

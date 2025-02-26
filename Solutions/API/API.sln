@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFirstAPI", "MyFirstAPI\MyFirstAPI.csproj", "{77BC7F2B-6E03-480B-A609-B4C2CC9D011A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentManagementAPI", "StudentManagementAPI\StudentManagementAPI.csproj", "{328FAACF-16D1-446F-AE10-21E74C880AC9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77BC7F2B-6E03-480B-A609-B4C2CC9D011A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77BC7F2B-6E03-480B-A609-B4C2CC9D011A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77BC7F2B-6E03-480B-A609-B4C2CC9D011A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77BC7F2B-6E03-480B-A609-B4C2CC9D011A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{328FAACF-16D1-446F-AE10-21E74C880AC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{328FAACF-16D1-446F-AE10-21E74C880AC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{328FAACF-16D1-446F-AE10-21E74C880AC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{328FAACF-16D1-446F-AE10-21E74C880AC9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

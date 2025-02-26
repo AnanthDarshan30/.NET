@@ -1,0 +1,7 @@
+C:\Users\aadars\Projects\MyProjects\MultiplicationTables\bin\Debug\MultiplicationTables.exe.config
+C:\Users\aadars\Projects\MyProjects\MultiplicationTables\bin\Debug\MultiplicationTables.exe
+C:\Users\aadars\Projects\MyProjects\MultiplicationTables\bin\Debug\MultiplicationTables.pdb
+C:\Users\aadars\Projects\MyProjects\MultiplicationTables\obj\Debug\MultiplicationTables.csproj.AssemblyReference.cache
+C:\Users\aadars\Projects\MyProjects\MultiplicationTables\obj\Debug\MultiplicationTables.csproj.CoreCompileInputs.cache
+C:\Users\aadars\Projects\MyProjects\MultiplicationTables\obj\Debug\MultiplicationTables.exe
+C:\Users\aadars\Projects\MyProjects\MultiplicationTables\obj\Debug\MultiplicationTables.pdb

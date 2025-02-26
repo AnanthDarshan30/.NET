@@ -1,0 +1,10 @@
+C:\Users\aadars\Solutions\MyProjects\ExtensionMethods\bin\Debug\ExtensionMethods.exe.config
+C:\Users\aadars\Solutions\MyProjects\ExtensionMethods\bin\Debug\ExtensionMethods.exe
+C:\Users\aadars\Solutions\MyProjects\ExtensionMethods\bin\Debug\ExtensionMethods.pdb
+C:\Users\aadars\Solutions\MyProjects\ExtensionMethods\obj\Debug\ExtensionMethods.csproj.AssemblyReference.cache
+C:\Users\aadars\Solutions\MyProjects\ExtensionMethods\obj\Debug\ExtensionMethods.csproj.CoreCompileInputs.cache
+C:\Users\aadars\Solutions\MyProjects\ExtensionMethods\obj\Debug\ExtensionMethods.exe
+C:\Users\aadars\Solutions\MyProjects\ExtensionMethods\obj\Debug\ExtensionMethods.pdb
+C:\Users\aadars\Solutions\MyProjects\ExtensionMethods\bin\Debug\ExtensionLIbrary.dll
+C:\Users\aadars\Solutions\MyProjects\ExtensionMethods\bin\Debug\ExtensionLIbrary.pdb
+C:\Users\aadars\Solutions\MyProjects\ExtensionMethods\obj\Debug\Extensio.71EAAA65.Up2Date

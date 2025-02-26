@@ -1,0 +1,7 @@
+C:\Users\aadars\Projects\MyProjects\Exercises\bin\Debug\Exercises.exe.config
+C:\Users\aadars\Projects\MyProjects\Exercises\bin\Debug\Exercises.exe
+C:\Users\aadars\Projects\MyProjects\Exercises\bin\Debug\Exercises.pdb
+C:\Users\aadars\Projects\MyProjects\Exercises\obj\Debug\Exercises.csproj.AssemblyReference.cache
+C:\Users\aadars\Projects\MyProjects\Exercises\obj\Debug\Exercises.csproj.CoreCompileInputs.cache
+C:\Users\aadars\Projects\MyProjects\Exercises\obj\Debug\Exercises.exe
+C:\Users\aadars\Projects\MyProjects\Exercises\obj\Debug\Exercises.pdb

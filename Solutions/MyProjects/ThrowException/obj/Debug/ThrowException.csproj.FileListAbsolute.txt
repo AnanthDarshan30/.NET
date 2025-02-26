@@ -1,0 +1,7 @@
+C:\Users\aadars\Projects\MyProjects\ThrowException\bin\Debug\ThrowException.exe.config
+C:\Users\aadars\Projects\MyProjects\ThrowException\bin\Debug\ThrowException.exe
+C:\Users\aadars\Projects\MyProjects\ThrowException\bin\Debug\ThrowException.pdb
+C:\Users\aadars\Projects\MyProjects\ThrowException\obj\Debug\ThrowException.csproj.AssemblyReference.cache
+C:\Users\aadars\Projects\MyProjects\ThrowException\obj\Debug\ThrowException.csproj.CoreCompileInputs.cache
+C:\Users\aadars\Projects\MyProjects\ThrowException\obj\Debug\ThrowException.exe
+C:\Users\aadars\Projects\MyProjects\ThrowException\obj\Debug\ThrowException.pdb

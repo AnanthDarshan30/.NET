@@ -1,0 +1,7 @@
+C:\Users\aadars\Solutions\MyProjects\GenericRepositoryPattern\bin\Debug\GenericRepositoryPattern.exe.config
+C:\Users\aadars\Solutions\MyProjects\GenericRepositoryPattern\bin\Debug\GenericRepositoryPattern.exe
+C:\Users\aadars\Solutions\MyProjects\GenericRepositoryPattern\bin\Debug\GenericRepositoryPattern.pdb
+C:\Users\aadars\Solutions\MyProjects\GenericRepositoryPattern\obj\Debug\GenericRepositoryPattern.csproj.AssemblyReference.cache
+C:\Users\aadars\Solutions\MyProjects\GenericRepositoryPattern\obj\Debug\GenericRepositoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\aadars\Solutions\MyProjects\GenericRepositoryPattern\obj\Debug\GenericRepositoryPattern.exe
+C:\Users\aadars\Solutions\MyProjects\GenericRepositoryPattern\obj\Debug\GenericRepositoryPattern.pdb

@@ -1,0 +1,7 @@
+C:\Users\aadars\Solutions\MyProjects\Delegates\bin\Debug\Delegates.exe.config
+C:\Users\aadars\Solutions\MyProjects\Delegates\bin\Debug\Delegates.exe
+C:\Users\aadars\Solutions\MyProjects\Delegates\bin\Debug\Delegates.pdb
+C:\Users\aadars\Solutions\MyProjects\Delegates\obj\Debug\Delegates.csproj.AssemblyReference.cache
+C:\Users\aadars\Solutions\MyProjects\Delegates\obj\Debug\Delegates.csproj.CoreCompileInputs.cache
+C:\Users\aadars\Solutions\MyProjects\Delegates\obj\Debug\Delegates.exe
+C:\Users\aadars\Solutions\MyProjects\Delegates\obj\Debug\Delegates.pdb

@@ -1,0 +1,14 @@
+C:\Users\aadars\Projects\MyProjects\AbstractAndInterface\bin\Debug\AbstractAndInterface.exe.config
+C:\Users\aadars\Projects\MyProjects\AbstractAndInterface\bin\Debug\AbstractAndInterface.exe
+C:\Users\aadars\Projects\MyProjects\AbstractAndInterface\bin\Debug\AbstractAndInterface.pdb
+C:\Users\aadars\Projects\MyProjects\AbstractAndInterface\obj\Debug\AbstractAndInterface.csproj.AssemblyReference.cache
+C:\Users\aadars\Projects\MyProjects\AbstractAndInterface\obj\Debug\AbstractAndInterface.csproj.CoreCompileInputs.cache
+C:\Users\aadars\Projects\MyProjects\AbstractAndInterface\obj\Debug\AbstractAndInterface.exe
+C:\Users\aadars\Projects\MyProjects\AbstractAndInterface\obj\Debug\AbstractAndInterface.pdb
+C:\Users\aadars\Solutions\MyProjects\AbstractAndInterface\bin\Debug\AbstractAndInterface.exe.config
+C:\Users\aadars\Solutions\MyProjects\AbstractAndInterface\bin\Debug\AbstractAndInterface.exe
+C:\Users\aadars\Solutions\MyProjects\AbstractAndInterface\bin\Debug\AbstractAndInterface.pdb
+C:\Users\aadars\Solutions\MyProjects\AbstractAndInterface\obj\Debug\AbstractAndInterface.csproj.AssemblyReference.cache
+C:\Users\aadars\Solutions\MyProjects\AbstractAndInterface\obj\Debug\AbstractAndInterface.csproj.CoreCompileInputs.cache
+C:\Users\aadars\Solutions\MyProjects\AbstractAndInterface\obj\Debug\AbstractAndInterface.exe
+C:\Users\aadars\Solutions\MyProjects\AbstractAndInterface\obj\Debug\AbstractAndInterface.pdb

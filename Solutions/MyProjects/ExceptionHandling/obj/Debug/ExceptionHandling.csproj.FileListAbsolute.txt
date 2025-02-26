@@ -1,0 +1,14 @@
+C:\Users\aadars\Projects\MyProjects\ExceptionHandling\bin\Debug\ExceptionHandling.exe.config
+C:\Users\aadars\Projects\MyProjects\ExceptionHandling\bin\Debug\ExceptionHandling.exe
+C:\Users\aadars\Projects\MyProjects\ExceptionHandling\bin\Debug\ExceptionHandling.pdb
+C:\Users\aadars\Projects\MyProjects\ExceptionHandling\obj\Debug\ExceptionHandling.csproj.AssemblyReference.cache
+C:\Users\aadars\Projects\MyProjects\ExceptionHandling\obj\Debug\ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\aadars\Projects\MyProjects\ExceptionHandling\obj\Debug\ExceptionHandling.exe
+C:\Users\aadars\Projects\MyProjects\ExceptionHandling\obj\Debug\ExceptionHandling.pdb
+C:\Users\aadars\Solutions\MyProjects\ExceptionHandling\bin\Debug\ExceptionHandling.exe.config
+C:\Users\aadars\Solutions\MyProjects\ExceptionHandling\bin\Debug\ExceptionHandling.exe
+C:\Users\aadars\Solutions\MyProjects\ExceptionHandling\bin\Debug\ExceptionHandling.pdb
+C:\Users\aadars\Solutions\MyProjects\ExceptionHandling\obj\Debug\ExceptionHandling.csproj.AssemblyReference.cache
+C:\Users\aadars\Solutions\MyProjects\ExceptionHandling\obj\Debug\ExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\aadars\Solutions\MyProjects\ExceptionHandling\obj\Debug\ExceptionHandling.exe
+C:\Users\aadars\Solutions\MyProjects\ExceptionHandling\obj\Debug\ExceptionHandling.pdb

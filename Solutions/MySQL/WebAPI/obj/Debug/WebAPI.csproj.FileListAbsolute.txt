@@ -1,0 +1,7 @@
+C:\Users\aadars\Solutions\MySQL\WebAPI\bin\Debug\WebAPI.exe.config
+C:\Users\aadars\Solutions\MySQL\WebAPI\bin\Debug\WebAPI.exe
+C:\Users\aadars\Solutions\MySQL\WebAPI\bin\Debug\WebAPI.pdb
+C:\Users\aadars\Solutions\MySQL\WebAPI\obj\Debug\WebAPI.csproj.AssemblyReference.cache
+C:\Users\aadars\Solutions\MySQL\WebAPI\obj\Debug\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\aadars\Solutions\MySQL\WebAPI\obj\Debug\WebAPI.exe
+C:\Users\aadars\Solutions\MySQL\WebAPI\obj\Debug\WebAPI.pdb

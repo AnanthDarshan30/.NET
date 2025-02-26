@@ -1,0 +1,14 @@
+C:\Users\aadars\Solutions\MyProjects\NetGenericDemo\bin\Debug\net8.0\NetGenericDemo.exe
+C:\Users\aadars\Solutions\MyProjects\NetGenericDemo\bin\Debug\net8.0\NetGenericDemo.deps.json
+C:\Users\aadars\Solutions\MyProjects\NetGenericDemo\bin\Debug\net8.0\NetGenericDemo.runtimeconfig.json
+C:\Users\aadars\Solutions\MyProjects\NetGenericDemo\bin\Debug\net8.0\NetGenericDemo.dll
+C:\Users\aadars\Solutions\MyProjects\NetGenericDemo\bin\Debug\net8.0\NetGenericDemo.pdb
+C:\Users\aadars\Solutions\MyProjects\NetGenericDemo\obj\Debug\net8.0\NetGenericDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aadars\Solutions\MyProjects\NetGenericDemo\obj\Debug\net8.0\NetGenericDemo.AssemblyInfoInputs.cache
+C:\Users\aadars\Solutions\MyProjects\NetGenericDemo\obj\Debug\net8.0\NetGenericDemo.AssemblyInfo.cs
+C:\Users\aadars\Solutions\MyProjects\NetGenericDemo\obj\Debug\net8.0\NetGenericDemo.csproj.CoreCompileInputs.cache
+C:\Users\aadars\Solutions\MyProjects\NetGenericDemo\obj\Debug\net8.0\NetGenericDemo.dll
+C:\Users\aadars\Solutions\MyProjects\NetGenericDemo\obj\Debug\net8.0\refint\NetGenericDemo.dll
+C:\Users\aadars\Solutions\MyProjects\NetGenericDemo\obj\Debug\net8.0\NetGenericDemo.pdb
+C:\Users\aadars\Solutions\MyProjects\NetGenericDemo\obj\Debug\net8.0\NetGenericDemo.genruntimeconfig.cache
+C:\Users\aadars\Solutions\MyProjects\NetGenericDemo\obj\Debug\net8.0\ref\NetGenericDemo.dll
